@@ -1,6 +1,10 @@
 .btn-primary {
-    background-color: red;
+  background-color: red;
 }
-.imagen{
-    width: 100px;
+.imagen {
+  width: 100px;
+}
+.parrafito {
+  background-color: blue;
+  padding: 50px;
 }
